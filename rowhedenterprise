@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>M. Towhed Enterprise (MTE)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #0f172a;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px;
+      background: #1e293b;
+    }
+    h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    p {
+      color: #cbd5e1;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background: #22c55e;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .card {
+      background: #1e293b;
+      margin: 15px auto;
+      padding: 20px;
+      max-width: 500px;
+      border-radius: 10px;
+    }
+    footer {
+      padding: 20px;
+      background: #1e293b;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>  <header>
+    <h1>M. Towhed Enterprise (MTE)</h1>
+    <p>Lighting Solutions & Electrical Supply</p>
+    <a class="btn" href="https://wa.me/8801970080255" target="_blank">Contact on WhatsApp</a>
+  </header>  <section>
+    <h2>Our Services</h2><div class="card">
+  <h3>Lighting Supply</h3>
+  <p>LED, decorative & industrial lighting products</p>
+</div>
+
+<div class="card">
+  <h3>Wholesale Distribution</h3>
+  <p>Supplying shops and dealers across the area</p>
+</div>
+
+<div class="card">
+  <h3>Customer Support</h3>
+  <p>Fast response and reliable service</p>
+</div>
+
+  </section>  <section>
+    <h2>Contact</h2>
+    <p>Phone: +8801970080255</p>
+    <p>Business: M. Towhed Enterprise</p>
+  </section>  <footer>
+    © 2026 M. Towhed Enterprise | All Rights Reserved
+  </footer></body>
+</html>
